@@ -1,6 +1,6 @@
 # 🏂 Austin Huynh
 
-**'Software Developer'**
+**`Software Developer`**
 
 As a developer, I tackle interesting issues one project at a time. My work stems from the mindset of a problem-solver. From the initial planning and design to the final stages of coding, my projects are made with the intention to tackle real-world challenges. I try to constantly learn to equip myself with technical skills that will foster an innovative and solution-focused approach and as I transition into the professional world, my goal is to utilize software as a means to drive impactful change.
 
